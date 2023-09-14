@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\n\nMollis nunc sed id semper risus in hendrerit gravida.\n\n\nEuismod nisi porta lorem mollis aliquam ut porttitor leo. Rutrum tellus pellentesque eu tincidunt tortor aliquam. Venenatis urna cursus eget nunc scelerisque viverra mauris.\n\nimport matplotlib.pyplot as plt\nplt.plot([1, 2, 3, 4])\nplt.ylabel('some numbers')\nplt.show()"
+  },
+  {
+    "objectID": "about.html#header-2",
+    "href": "about.html#header-2",
+    "title": "About",
+    "section": "",
+    "text": "Mollis nunc sed id semper risus in hendrerit gravida.\n\n\nEuismod nisi porta lorem mollis aliquam ut porttitor leo. Rutrum tellus pellentesque eu tincidunt tortor aliquam. Venenatis urna cursus eget nunc scelerisque viverra mauris.\n\nimport matplotlib.pyplot as plt\nplt.plot([1, 2, 3, 4])\nplt.ylabel('some numbers')\nplt.show()"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "Introduction\nSome paragraph\n\nSub paragraph\n\nAnother paragraph"
+  },
+  {
+    "objectID": "index.html#h2-ipsum-lorem",
+    "href": "index.html#h2-ipsum-lorem",
+    "title": "simple_quarto_website",
+    "section": "H2 Ipsum Lorem",
+    "text": "H2 Ipsum Lorem\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\nH3 Education\n\nMichigan State University\nGeorgetown University\n\n\n\n\n\n\n\n\n\n\nTitle\n\n\nTitle 2\n\n\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget.\n\n\nAugue neque gravida in fermentum et sollicitudin ac orci phasellus. Egestas diam in arcu cursus euismod quis. Turpis nunc eget lorem dolor sed viverra ipsum nunc aliquet.\n\n\n\n\n\n\n\nSemester\nClasses\n\n\n\n\nFall 23\nDSAN 5000\n\n\nFall 23\nDSAN 5100\n\n\n\n\\(P(A|B) = \\frac{P(A\\cap B)}{P(B)}\\)\n\\[P(A|B) = \\frac{P(B|A)P(A)}{P(B)}\\]\n\nLife is short\n\nOne sentence from the article 1\n\n\n\n\n\n\n\n\n\n\ngraph TD;\n    A--&gt;B;\n    A--&gt;C;\n    B--&gt;D;\n    C--&gt;D;\n\n\n\n\n\n(Gonzales, Terriquez, and Ruszczyk 2014)"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "simple_quarto_website",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThis is the footnote.↩︎"
+  },
+  {
+    "objectID": "slides/slides.html#slide-1",
+    "href": "slides/slides.html#slide-1",
+    "title": "Lab 1.2",
+    "section": "Slide 1",
+    "text": "Slide 1"
+  },
+  {
+    "objectID": "slides/slides.html#slide-2",
+    "href": "slides/slides.html#slide-2",
+    "title": "Lab 1.2",
+    "section": "Slide 2",
+    "text": "Slide 2"
+  },
+  {
+    "objectID": "slides/slides.html#slide-3",
+    "href": "slides/slides.html#slide-3",
+    "title": "Lab 1.2",
+    "section": "Slide 3",
+    "text": "Slide 3\n(Gonzales, Terriquez, and Ruszczyk 2014)\n\n\n\n\n\n\nGonzales, Roberto G, Veronica Terriquez, and Stephen P Ruszczyk. 2014. “Becoming DACAmented: Assessing the Short-Term Benefits of Deferred Action for Childhood Arrivals (DACA).” American Behavioral Scientist 58 (14): 1852–72."
+  }
+]

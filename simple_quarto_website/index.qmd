@@ -1,0 +1,73 @@
+---
+title: "simple_quarto_website"
+bibliography: reference.bib
+---
+
+# Table of contents
+1. [Introduction](#Intro)
+2. [Some paragraph](#paragraph1)
+    1. [Sub paragraph](#subparagraph1)
+3. [Another paragraph](#paragraph2)
+
+# H1 Intro <a name="Intro"></a>
+Hello my name is Brian Kwon.
+
+## H2 Ipsum Lorem
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+### H3 Education
+* Michigan State University
+* Georgetown University
+
+
+```{r, echo=FALSE, fig.width=5, fig.height=4}
+par(mar = c(4, 4, .2, .1))
+plot(cars, pch = 19)
+```
+
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. </td>
+    <td>Augue neque gravida in fermentum et sollicitudin ac orci phasellus. Egestas diam in arcu cursus euismod quis. Turpis nunc eget lorem dolor sed viverra ipsum nunc aliquet.</td>
+ </tr>
+</table>
+
+
+
+| Semester | Classes |
+| -------- | ------- |
+| Fall 23  | DSAN 5000 |
+| Fall 23  | DSAN 5100 |
+
+$P(A|B) = \frac{P(A\cap B)}{P(B)}$
+
+$$P(A|B) = \frac{P(B|A)P(A)}{P(B)}$$
+
+> Life is short
+
+One sentence from the article [^1]
+
+[^1]: This is the footnote.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ChH3mgE8JWw?si=4K2DQIPBa-YZ9lFA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RIHZypMyQ2s?si=dj5MGKS_2Kp4CSnV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+![](https://images.unsplash.com/photo-1579353977828-2a4eab540b9a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c2FtcGxlfGVufDB8fDB8fHww&w=1000&q=80)
+
+![](./images/DSC04058.JPG)
+
+
+```{mermaid}
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
+[@gonzales2014becoming]
