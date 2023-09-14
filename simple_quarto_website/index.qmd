@@ -5,17 +5,16 @@ bibliography: reference.bib
 
 # Table of contents
 1. [Introduction](#Intro)
-2. [Some paragraph](#paragraph1)
-    1. [Sub paragraph](#subparagraph1)
-3. [Another paragraph](#paragraph2)
+2. [Ipsum Lorem](#IpsumLorem)
+3. [Education](#Edu)
 
-# H1 Intro <a name="Intro"></a>
+# Intro <a name="Intro"></a>
 Hello my name is Brian Kwon.
 
-## H2 Ipsum Lorem
+## Ipsum Lorem <a name="IpsumLorem"></a>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-### H3 Education
+### Education <a name="Edu"></a>
 * Michigan State University
 * Georgetown University
 

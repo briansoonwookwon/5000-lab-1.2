@@ -8,7 +8,8 @@ website:
       - href: index.qmd
         text: Home
       - about.ipynb
-      - slides/slides.ipynb
+      - href: slides/slides.ipynb
+        text: slide
 
 bibliography: reference.bib
 
